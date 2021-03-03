@@ -16,7 +16,7 @@ To run the extension, first select one or more objects in your open Illustrator 
 
 After [installing the Specify extension from Adobe Exchange](https://exchange.adobe.com/creativecloud.details.104123.specify.html), simply navigate to `Window > Extensions > Specify` to get started. Run the extension by simply clicking the "Specify Object(s)" button in the extension panel.
 
-> **NOTE**: If you receive an error that the extension is not compatible with the installed version of your version of Adobe Illustrator, or if the plugin becomes incompatible after an Adobe update, navigate to "Manage Plugins" within the Creative Cloud desktop application. Uninstall the Specify extension, and then simply re-install the extension.
+> **NOTE**: If you receive an error that the extension is not compatible with your installed version of Adobe Illustrator, or if the extension becomes incompatible after an Adobe update, navigate to "Manage Plugins" within the Creative Cloud desktop application. Uninstall the Specify extension, and then simply re-install the extension.
 
 ### Options and Styles
 
