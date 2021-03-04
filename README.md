@@ -2,7 +2,10 @@
 
 Adobe Illustrator extension to automate specifying dimension measurements (and adding dimension lines) of single or multiple objects, and specifying the dimensions between two objects.
 
-![specify-example](img/featured-new.png)
+* [Specify Homepage](https://specify.dehaven.org)
+* [Install Specify from Adobe Creative Cloud](https://exchange.adobe.com/creativecloud.details.104123.specify.html)
+
+![Specify Hero Image](img/featured-new.png)
 
 ## Installation
 
