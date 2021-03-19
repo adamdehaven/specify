@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.0.0
+
+- Releasing as Adobe Exchange compatible extension.
+
 ## 3.2.2
 
 - Updating artwork files and external URLs.
