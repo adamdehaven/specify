@@ -2,8 +2,8 @@
 
 Adobe Illustrator extension to automate specifying dimension measurements (and adding dimension lines) of single or multiple objects, and specifying the dimensions between two objects.
 
-* [Specify Homepage](https://specify.dehaven.org)
-* [Install Specify from Adobe Creative Cloud](https://exchange.adobe.com/creativecloud.details.104123.specify.html)
+- [Specify Homepage](https://specify.dehaven.org)
+- [Install Specify from Adobe Creative Cloud](https://exchange.adobe.com/creativecloud.details.106345.html)
 
 ![Specify Hero Image](img/featured-new.png)
 
@@ -11,13 +11,13 @@ Adobe Illustrator extension to automate specifying dimension measurements (and a
 
 ### Extension Install
 
-Simply [download the Specify extension from Adobe Exchange](https://exchange.adobe.com/creativecloud.details.104123.specify.html).
+Simply [download the Specify extension from Adobe Exchange](https://exchange.adobe.com/creativecloud.details.106345.html).
 
 ## Usage
 
 To run the extension, first select one or more objects in your open Illustrator document. You must have at least one object selected via Illustrator's Selection Tool <kbd>V</kbd> or Direct Selection Tool <kbd>A</kbd>.
 
-After [installing the Specify extension from Adobe Exchange](https://exchange.adobe.com/creativecloud.details.104123.specify.html), simply navigate to `Window > Extensions > Specify` to get started. Run the extension by simply clicking the "Specify Object(s)" button in the extension panel.
+After [installing the Specify extension from Adobe Exchange](https://exchange.adobe.com/creativecloud.details.106345.html), simply navigate to `Window > Extensions > Specify` to get started. Run the extension by simply clicking the "Specify Object(s)" button in the extension panel.
 
 > **NOTE**: If you receive an error that the extension is not compatible with your installed version of Adobe Illustrator, or if the extension becomes incompatible after an Adobe update, navigate to "Manage Plugins" within the Creative Cloud desktop application. Uninstall the Specify extension, and then simply re-install the extension.
 
