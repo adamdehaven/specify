@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.0.1
+
+- Fixing extension panel icons.
+
 ## 4.0.0
 
 - Releasing as Adobe Exchange compatible extension.
