@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.1.1
+
+- Handle if user does not have a selected font installed.
+
 ## 4.1.0
 
 - Adding persistent font family selection for dimension label text.
