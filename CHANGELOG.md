@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.1.0
+
+- Adding persistent font family selection for dimension label text.
+
 ## 4.0.1
 
 - Fixing extension panel icons.

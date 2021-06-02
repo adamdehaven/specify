@@ -77,6 +77,10 @@ When checked, allows the user to customize the text of the units label. For exam
 
 Set the desired number of decimal places to display after the decimal point in the label dimensions.
 
+### Font Family
+
+Set the desired font family for the dimension label(s). Default is &quot;Tahoma&quot;.
+
 ### Font Size
 
 Set the desired font size for the dimension label(s). If the value is less than one (e.g. 0.25) you must include a leading zero before the decimal point.
