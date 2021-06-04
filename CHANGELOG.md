@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.1.2
+
+- Handle if user does not select a compatible font.
+
 ## 4.1.1
 
 - Handle if user does not have a selected font installed.
