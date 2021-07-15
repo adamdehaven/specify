@@ -55,6 +55,10 @@ You may define a custom scale for your artwork, which will apply a multiplier to
 
 For example, if you are designing an engineering drawing at 1/4 scale (or 1:4), you simply choose this ratio from the **Scale** dropdown menu, and then optionally enable the checkbox for [Custom Units Text](#custom-units-text) on the Styles Panel that corresponds to the unit labels you would like to output. In this example, choosing '1/4' will indicate the artwork is drawn at one-fourth scale, resulting in dimension values that are 4 times their drawn dimensions.
 
+### SPEC Layer
+
+Choose whether to lock the **SPEC** layer after adding the dimensions.
+
 ## Styles Panel
 
 The Styles Panel allows the user to completely customize the label styles and the line styles for all dimensions.
