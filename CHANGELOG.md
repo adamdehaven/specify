@@ -1,5 +1,15 @@
 # Specify Changelog
 
+## 4.2.0
+
+### New Feature
+
+- Add SPEC layer option panel, along with option to lock/not lock the SPEC layer after adding dimensions.
+
+### Fixes
+
+- Resolves issue with some boolean (true/false) settings not persisting.
+
 ## 4.1.2
 
 - Handle if user does not select a compatible font.
