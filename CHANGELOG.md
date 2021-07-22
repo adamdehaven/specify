@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.2.2
+
+- Updating label text to a single space between units and measurement.
+
 ## 4.2.1
 
 - Detect whether settings can be reset based on new layer lock option (oops).
