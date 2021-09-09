@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.2.3
+
+- Updating extension panel height and spacing.
+
 ## 4.2.2
 
 - Updating label text to a single space between units and measurement.
