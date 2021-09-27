@@ -63,6 +63,14 @@ You may define a custom scale for your artwork, which will apply a multiplier to
 
 For example, if you are designing an engineering drawing at 1/4 scale (or 1:4), you simply choose this ratio from the **Scale** dropdown menu, and then optionally enable the checkbox for [Custom Units Text](#custom-units-text) on the Styles Panel that corresponds to the unit labels you would like to output. In this example, choosing '1/4' will indicate the artwork is drawn at one-fourth scale, resulting in dimension values that are 4 times their drawn dimensions.
 
+### Decimals or Fractions
+
+You may choose to use decimals or fractions for measurements that contain non-whole-numbers.
+
+If you choose **Decimals**, you can specify how many decimal places to use for the measurement (0-5 decimal places). Default is `2`.
+
+If you choose to use **Fractions** you can specify the maximum denominator number to use. This setting will impact the rounding algorithm. Default is `64`. You may also choose whether to include a dash `-` between the whole number and the fraction. With this setting enabled, the measurement `1 3/4` is displayed as `1-3/4`.
+
 ### SPEC Layer
 
 Choose whether to lock the **SPEC** layer after adding the dimensions.
