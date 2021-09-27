@@ -29,14 +29,6 @@ Any changes to the settings defined in the Specify Dialog (including both the [O
 
 After configuring your desired settings, make sure to select which dimension(s) to dimension, and then simply click the "Specify Object(s)" button at the bottom right of the dialog. Specify will quickly output all selected dimensions onto a new **SPEC** layer, and then lock the layer to prevent accidental edits.
 
-### Decimals or Fractions
-
-You may choose to use decimals or fractions for measurements that contain non-whole-numbers.
-
-If you choose **Decimals**, you can specify how many decimal places to use for the measurement (0-5 decimal places). Default is `2`.
-
-If you choose to use **Fractions** you can specify the maximum denominator number to use. This setting will impact the rounding algorithm. Default is `64`. You may also choose whether to include a dash `-` between the whole number and the fraction. With this setting enabled, the measurement `1 3/4` is displayed as `1-3/4`.
-
 ### SPEC Layer
 
 You are free to unlock the **SPEC** layer and edit as needed. You may change the color of individual dimension labels, adjust the placement of dimension groups, or even remove dimensions you no longer need.
@@ -45,7 +37,7 @@ If you make a mistake, no problem! Simply select the desired objects and run the
 
 ## Options Panel
 
-The Options Panel allows the user to select the side(s) of the object(s) to dimension, whether to dimension the object itself or between objects, and the scale of the artwork.
+The Options Panel allows the user to select the side(s) of the object(s) to dimension, to use decimals or fractions for non-whole-number measurements, whether to dimension the object itself or between objects, and the scale of the artwork.
 
 ![Specify Illustrator Extension Options Panel](img/specify-options-panel.png)
 
@@ -69,7 +61,7 @@ You may choose to use decimals or fractions for measurements that contain non-wh
 
 #### Decimals
 
-If you choose **Decimals**, you can specify how many decimal places to use for the measurement (0-5 decimal places). Default is `2`.
+If you choose **Decimals**, you can specify how many decimal places to use for the measurement (0-5 decimal places). Trailing zeros will be automatically removed. Default is `2`.
 
 #### Fractions
 
@@ -96,10 +88,6 @@ Next, right-click on the Ruler, and select your desired units. Otherwise, the ex
 ### Custom Units Text
 
 When checked, allows the user to customize the text of the units label. For example, displaying the abbreviation for feet, "ft" instead of the ruler measurement unit.
-
-### Decimals
-
-Set the desired number of decimal places to display after the decimal point in the label dimensions.
 
 ### Font Family
 
