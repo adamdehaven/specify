@@ -29,6 +29,14 @@ Any changes to the settings defined in the Specify Dialog (including both the [O
 
 After configuring your desired settings, make sure to select which dimension(s) to dimension, and then simply click the "Specify Object(s)" button at the bottom right of the dialog. Specify will quickly output all selected dimensions onto a new **SPEC** layer, and then lock the layer to prevent accidental edits.
 
+### Decimals or Fractions
+
+You may choose to use decimals or fractions for measurements that contain non-whole-numbers.
+
+If you choose **Decimals**, you can specify how many decimal places to use for the measurement (0-5 decimal places). Default is `2`.
+
+If you choose to use **Fractions** you can specify the maximum denominator number to use. This setting will impact the rounding algorithm. Default is `64`.
+
 ### SPEC Layer
 
 You are free to unlock the **SPEC** layer and edit as needed. You may change the color of individual dimension labels, adjust the placement of dimension groups, or even remove dimensions you no longer need.
