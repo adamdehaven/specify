@@ -1,5 +1,22 @@
 # Specify Changelog
 
+## 4.3.0
+
+### New Features
+
+- Choose to display non-whole-number measurements in decimals or fractions.
+  - When using decimals, measurements can now be displayed with up to 5 decimal places (previously, the maximum was 4).
+  - When using fractions, the user can set the maximum denominator value which impacts how the rounding algorithm interprets the measurement (default is `64`).
+  - Optionally include a dash between the whole number and the fraction, when applicable. Example: `1 3/4` or `1-3/4`
+  - The decimal places setting has been moved from the `Styles` panel to the `Options` panel.
+- Allows for more customization in the custom label text by allowing additional character types.
+
+### Fixes
+
+- Resolves issue with custom units field setting not persisting in some scenarios.
+- Resolves issue with dimension between multiple objects setting not persisting in some scenarios.
+- Properly trim leading and trailing whitespace in the custom units field.
+
 ## 4.2.3
 
 - Updating extension panel height and spacing.
