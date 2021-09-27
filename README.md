@@ -67,7 +67,11 @@ For example, if you are designing an engineering drawing at 1/4 scale (or 1:4), 
 
 You may choose to use decimals or fractions for measurements that contain non-whole-numbers.
 
+#### Decimals
+
 If you choose **Decimals**, you can specify how many decimal places to use for the measurement (0-5 decimal places). Default is `2`.
+
+#### Fractions
 
 If you choose to use **Fractions** you can specify the maximum denominator number to use. This setting will impact the rounding algorithm. Default is `64`. You may also choose whether to include a dash `-` between the whole number and the fraction. With this setting enabled, the measurement `1 3/4` is displayed as `1-3/4`.
 
