@@ -1,5 +1,10 @@
 # Specify Changelog
 
+## 4.3.1
+
+- Resolves issue with Restore Defaults not checking for existence of field.
+- Resolves issue with Custom Units Label setting not persisting.
+
 ## 4.3.0
 
 ### New Features
