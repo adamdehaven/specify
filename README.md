@@ -13,6 +13,17 @@ Adobe Illustrator extension to automate specifying dimension measurements (and a
 
 Simply [download the Specify extension from Adobe Exchange](https://exchange.adobe.com/creativecloud.details.106345.html).
 
+### Extension Updates
+
+To update to the latest version of the Specify extension:
+
+1. Open the Creative Cloud desktop app.
+2. Click to activate the `Marketplace` tab.
+3. Click `Manage Plugins` on the sidebar.
+4. Find the Specify extension in the list of plugins. If an update is available, simply click the `Update` button and then restart Illustrator.
+
+![Specify extension update panel in Adobe Exchange](img/extension-update-panel.png)
+
 ## Usage
 
 To run the extension, first select one or more objects in your open Illustrator document. You must have at least one object selected via Illustrator's Selection Tool <kbd>V</kbd> or Direct Selection Tool <kbd>A</kbd>.

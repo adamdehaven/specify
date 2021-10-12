@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.3.2
+
+- Added instructions on how to update the extension within the extension 'Updates' tab.
+
 ## 4.3.1
 
 - Resolves issue with Restore Defaults not checking for existence of field.
