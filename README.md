@@ -19,7 +19,7 @@ To update to the latest version of the Specify extension:
 
 1. Open the Creative Cloud desktop app.
 2. Click to activate the `Marketplace` tab.
-3. Click `Manage Plugins` on the sidebar.
+3. Click `Plugins`, then `Manage Plugins` on the sidebar.
 4. Find the Specify extension in the list of plugins. If an update is available, simply click the `Update` button and then restart Illustrator.
 
 ![Specify extension update panel in Adobe Exchange](img/extension-update-panel.png)

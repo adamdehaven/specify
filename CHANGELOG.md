@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.3.3
+
+- Modified update instructions.
+
 ## 4.3.2
 
 - Added instructions on how to update the extension within the extension 'Updates' tab.
