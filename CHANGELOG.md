@@ -1,5 +1,12 @@
 # Specify Changelog
 
+## 4.4.0
+
+- Convert default values to proper units based on `RulerUnits`.
+- Scale denominator allows for decimal values (e.g. converting from centimeters to meters).
+- Custom units text should default to current ruler units if not enabled.
+- Add note in Styles panel for 'Unknown' ruler units.
+
 ## 4.3.3
 
 - Modified update instructions.
