@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.4.1
+
+- Automatically convert units when `RulerUnits` are changed.
+
 ## 4.4.0
 
 - Convert default values to proper units based on `RulerUnits`.
