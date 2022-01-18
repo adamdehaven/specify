@@ -1,5 +1,13 @@
 # Specify Changelog
 
+## 4.5.0
+
+- Updated extension window layout to better accommodate smaller (in height) screen sizes.
+- Changed `Reset` button to 'Restore Defaults'.
+- Added close button on top of extension window.
+- Removed `updatePanel` method from being called after changing colors, etc.
+- Added new `Alerts` panel.
+
 ## 4.4.1
 
 - Automatically convert units when `RulerUnits` are changed.
