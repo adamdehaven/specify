@@ -1,5 +1,9 @@
 # Specify Changelog
 
+## 4.5.1
+
+- Update layout to prevent inaccessible buttons.
+
 ## 4.5.0
 
 - Updated extension window layout to better accommodate smaller (in height) screen sizes.
