@@ -1,5 +1,10 @@
 # Specify Changelog
 
+## 4.5.2
+
+- Tweaked button group widths.
+- Fixed extension panel icon (finally).
+
 ## 4.5.1
 
 - Update layout to prevent inaccessible buttons.
