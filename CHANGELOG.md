@@ -1,9 +1,12 @@
 # Specify Changelog
 
+## 4.5.3
+
+- Resolves an issue where UI elements are hidden when Windows display 'Scale and Layout' settings are set to a value greater than 100%.
+
 ## 4.5.2
 
 - Tweaked button group widths.
-- Fixed extension panel icon (finally).
 
 ## 4.5.1
 
