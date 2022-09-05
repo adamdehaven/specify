@@ -1,5 +1,10 @@
 # Specify Changelog
 
+## 4.6.0
+
+- Add the ability to dimension the area of each selected object.
+- Fixes an issue where restoring defaults did not always reset all settings.
+
 ## 4.5.3
 
 - Resolves an issue where UI elements are hidden when Windows display 'Scale and Layout' settings are set to a value greater than 100%.
